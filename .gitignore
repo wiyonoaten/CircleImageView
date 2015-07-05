@@ -10,3 +10,9 @@ local.properties
 
 # Gradle files
 .gradle
+/.vs
+/BindingLibTestApp/obj
+/BindingLibTestApp/bin
+/HdodenhofCircleImageViewBindingLib.Android/obj
+/HdodenhofCircleImageViewBindingLib.Android/bin
+/*.userprefs
